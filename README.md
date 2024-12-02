@@ -1,3 +1,3 @@
-Lilian, 19, Computer Science Student at ESGI Nantes.
-1st year
+# Lilian, 19. 
+1st year Computer Science Student at **ESGI Nantes.**
 From France
